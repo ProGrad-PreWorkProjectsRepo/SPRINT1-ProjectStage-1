@@ -1,0 +1,187 @@
+* {
+
+  margin: 0;
+  padding: 0;
+}
+
+
+.display {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-left: 250px;
+
+
+
+
+}
+
+.flex-gap {
+
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+
+#grid1 {
+
+  /* padding: 10px;
+  margin: 10px;   */
+  /* display: grid;
+  grid-template-rows: 30px 30px 60px 30px 30px;
+  grid-template-columns: 100px 100px 100px 100px 100px;  */
+  border-style: groove;
+  width: 150px;
+  height: 250px;
+  border-radius: 5%;
+  margin-top: 5px;
+  align-content: center;
+  padding: 2px;
+  margin-top: 8px;
+}
+
+
+#grid1 img {
+
+  align-items: center;
+  margin-left: auto;
+  margin: 12px;
+}
+
+#grid1 p {
+
+  text-align: center;
+
+}
+
+#grid1 h5 {
+
+  text-align: center;
+  font-size: 40px;
+  font-weight: 200;
+  margin-bottom: 40px;
+
+}
+
+#grid2 {
+  border-style: groove;
+  width: 150px;
+  height: 250px;
+  border-radius: 5%;
+  margin-top: 5px;
+  align-content: center;
+  padding: 2px;
+  margin-top: 8px;
+}
+
+#grid2 img {
+
+  align-items: center;
+  margin-left: auto;
+  margin: 12px;
+  ;
+}
+
+#grid2 p {
+
+  text-align: center;
+}
+
+#grid2 h5 {
+
+  text-align: center;
+  font-size: 40px;
+  font-weight: 200;
+  margin-bottom: 40px;
+}
+
+
+
+.score {
+  font-size: large;
+  font-weight: bold;
+  margin-top: 15px;
+  padding: 0 80px;
+
+}
+
+
+
+#grid3 {
+  border-style: groove;
+  width: 150px;
+  height: 250px;
+  border-radius: 5%;
+  margin-top: 5px;
+  align-content: center;
+  padding: 2px;
+  margin-top: 8px;
+
+
+}
+
+#grid3 img {
+
+  align-items: center;
+  margin-left: auto;
+  margin: 12px;
+}
+
+#grid3 p {
+
+  text-align: center;
+}
+
+#grid3 h5 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 200;
+  margin-bottom: 40px;
+
+}
+
+
+
+#grid4 {
+  border-style: groove;
+  width: 150px;
+  height: 250px;
+  border-radius: 5%;
+  margin-top: 5px;
+  align-content: center;
+  padding: 2px;
+  margin-top: 8px;
+
+
+}
+
+#grid4 img {
+
+  align-items: center;
+  margin-left: 15px;
+  margin: px;
+  width: auto;
+  height: 120px;
+}
+
+#grid4 p {
+
+  text-align: center;
+
+}
+
+#grid4 h5 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 200;
+  margin-bottom: 70px;
+
+}
+
+.footer {
+  margin-top: 100px;
+  margin-left: 80px;
+  font-size: 18px;
+}
